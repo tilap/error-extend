@@ -1,4 +1,5 @@
-﻿# Error extend
+﻿Error extend [![NPM version][npm-image]][npm-url]
+============================
 
 Simple way to extend JS Error class with custom code or default message.
 
@@ -28,3 +29,6 @@ throw new MyCustomError('I am a wonderfull teapot');
 ## License
 
 MIT
+
+[npm-image]: https://img.shields.io/npm/v/error-extend.svg?style=flat
+[npm-url]: https://npmjs.org/package/error-extend
