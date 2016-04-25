@@ -1,6 +1,6 @@
 {
   "name": "error-extend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple way get custom error classes",
   "main": "lib/error-extend.js",
   "scripts": {
@@ -13,7 +13,9 @@
     "url": "git+ssh://git@github.com/tilap/error-extend.git"
   },
   "keywords": [
-    "error", "extends", "node"
+    "error",
+    "extends",
+    "node"
   ],
   "author": "Julien Tilap LA VINH <jlavinh@gmail.com>",
   "contributors": [
