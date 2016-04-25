@@ -2,7 +2,7 @@
   "name": "error-extend",
   "version": "1.0.0",
   "description": "Simple way get custom error classes",
-  "main": "lib/extends-error.js",
+  "main": "lib/error-extend.js",
   "scripts": {
     "build": "./node_modules/.bin/babel src -d lib",
     "lint": "./node_modules/.bin/eslint src",
